@@ -611,7 +611,7 @@ import Swal from 'sweetalert2/dist/sweetalert2.js'
 export default {
 
         mounted() {
-            console.log('DETALLE LIQUIDADORA.')
+            console.log('DETALLE LIQUIDADORA. dsfssdfsf')
 
 this.getLiquidadora();
 
